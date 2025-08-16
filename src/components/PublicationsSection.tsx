@@ -8,7 +8,7 @@ const publications = [
     date: "15 Aug 2024", 
     authors: ["Shreyansh Singh", "Co-authors"],
     abstract: "This research explores the application of machine learning techniques to identify and detect unethical sourcing practices in cosmetic industry supply chains, providing a comprehensive framework for ethical supply chain management.",
-    url: "#"
+    url: "https://drive.google.com/file/d/1JhJuJ3XulfTB5W2AiwDxyd0mWQPO-T07/view?usp=sharing"
   }
 ];
 
