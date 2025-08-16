@@ -2,7 +2,7 @@ import { Calendar, MapPin, Building } from "lucide-react";
 
 const experiences = [
   {
-    company: "SECUINIX",
+    company: "SECULINX",
     role: "VIT Incubated Startup, AI/ML Solutions Lead - Student Community",
     location: "Vellore, India",
     duration: "Sep 2024 - Apr 2025",
