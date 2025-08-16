@@ -6,7 +6,7 @@ const projects = [
     title: "AI-Powered Q&A Bot",
     description: "Developed an LLM-based chatbot using FastAPI and Streamlit, enabling real-time interaction through a clean and user-friendly learning experience.",
     technologies: ["FastAPI", "Streamlit", "LLM", "Python"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/shreyanshdiff/AI-Tutor.git",
     liveUrl: "#"
   },
 
@@ -14,15 +14,15 @@ const projects = [
     title: "Brain Tumor Classification",
     description: "Developed a deep learning model using UNet for MRI segmentation, achieving 90% accuracy. Built predictive maintenance model with 87% accuracy, 95% recall, and 89% precision.",
     technologies: ["UNet", "Deep Learning", "MRI Processing", "TensorFlow"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/shreyanshdiff/Brain-UNET.git",
     liveUrl: "#"
   },
   {
     title: "MLOps Pipeline Architecture",
     description: "Deployed ML model using Docker, Kubernetes, and Nginx, implementing real-time monitoring with MLflow tracking, Jenkins for CI/CD, improving model delivery efficiency by 55%.",
     technologies: ["Docker", "Kubernetes", "MLflow", "Jenkins", "Nginx"],
-    githubUrl: "#",
-    liveUrl: "#"
+    githubUrl: "https://github.com/shreyanshdiff/MLops-Kubernetes.git",
+    liveUrl: "https://mlops-kubernetes-c3obagdkuruscnpqgvgwj8.streamlit.app/"
   }
 ];
 
