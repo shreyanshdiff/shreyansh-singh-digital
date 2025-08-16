@@ -9,13 +9,7 @@ const projects = [
     githubUrl: "#",
     liveUrl: "#"
   },
-  {
-    title: "MLflow Pipeline Integration", 
-    description: "Integrated Large Language Model (LLM) responses with contextual memory retrieval to deliver personalized and coherent Q&A sessions utilizing state-of-the-art memory-driven neural networks.",
-    technologies: ["MLflow", "Neural Networks", "Memory Systems", "Python"],
-    githubUrl: "#",
-    liveUrl: "#"
-  },
+
   {
     title: "Brain Tumor Classification",
     description: "Developed a deep learning model using UNet for MRI segmentation, achieving 90% accuracy. Built predictive maintenance model with 87% accuracy, 95% recall, and 89% precision.",
