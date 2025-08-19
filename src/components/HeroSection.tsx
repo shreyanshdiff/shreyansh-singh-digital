@@ -35,7 +35,7 @@ const HeroSection = () => {
             className="hover-lift"
           >
             <a 
-              href="nkedin.com/in/shreyansh-singh-940691234/" 
+              href="https://www.linkedin.com/in/shreyansh-singh-940691234/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center gap-2"
