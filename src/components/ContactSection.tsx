@@ -77,7 +77,7 @@ const ContactSection = () => {
                     href="tel:+918830339404" 
                     className="font-body text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +91 8530539404
+                    +91 8830339404
                   </a>
                 </div>
               </div>
