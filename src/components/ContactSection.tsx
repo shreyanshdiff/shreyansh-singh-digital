@@ -98,7 +98,7 @@ const ContactSection = () => {
               <h4 className="font-heading font-medium text-foreground mb-4">Follow Me</h4>
               <div className="flex gap-4">
                 <Button variant="outline" size="icon" asChild>
-                  <a href="https://www.linkedin.com/in/shreyansh-singh-940691234/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.linkedin.com/in/shreyanshsingh17/" target="_blank" rel="noopener noreferrer">
                     <Linkedin className="h-4 w-4" />
                   </a>
                 </Button>
